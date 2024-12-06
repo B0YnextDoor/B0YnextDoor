@@ -47,6 +47,4 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=B0YnextDoor&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B0YnextDoor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
